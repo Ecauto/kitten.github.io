@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:01:16	132/132	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2018%20May%202022%2020:01:20%20GMT	http://18.217.244.10/robots.txt		(from )
+22:01:16	3278/3278	---MCZ	200	added ('OK')	text/html	etag:W/%22cce-180d89d63a0%22	http://18.217.244.10/figged/	C:/Users/CJULO/Downloads/Kitten/18.217.244.10/figged/index.html	(from )
+22:01:17	1015/1015	---M--	200	added ('OK')	text/css	etag:W/%223f7-180d899caf7%22	http://18.217.244.10/figged/css/reset	C:/Users/CJULO/Downloads/Kitten/18.217.244.10/figged/css/reset.css	(from http://18.217.244.10/figged/)
+22:01:17	2589/2589	---M--	200	added ('OK')	text/css	etag:W/%22a1d-180d899c923%22	http://18.217.244.10/figged/css/index	C:/Users/CJULO/Downloads/Kitten/18.217.244.10/figged/css/index.css	(from http://18.217.244.10/figged/)
+22:01:17	1292/1292	---MCZ	200	added ('OK')	text/html	etag:W/%2250c-180d89d63a8%22	http://18.217.244.10/figged/miner	C:/Users/CJULO/Downloads/Kitten/18.217.244.10/figged/miner.html	(from http://18.217.244.10/figged/)
+22:01:17	486/486	---M--	200	added ('OK')	text/css	etag:W/%221e6-180d899c90f%22	http://18.217.244.10/figged/css/miner	C:/Users/CJULO/Downloads/Kitten/18.217.244.10/figged/css/miner.css	(from http://18.217.244.10/figged/miner)
+22:01:18	2462/2462	---M--	200	added ('OK')	application/javascript	etag:W/%2299e-180d899db43%22	http://18.217.244.10/figged/js/miner	C:/Users/CJULO/Downloads/Kitten/18.217.244.10/figged/js/miner	(from http://18.217.244.10/figged/miner)
