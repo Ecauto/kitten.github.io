@@ -32,8 +32,8 @@ function makeid(length) {
 
 
 function run(){
-    if(Math.floor(Math.random() * 100000) == 0){
-        document.getElementById("miner").value += "\n[1"+makeid(33)+"] " + makeid(64) + " => "+Math.random() * 0.009+" BTC";
+    if(Math.floor(Math.random() * 1000) == 0){
+        document.getElementById("miner").value += "\n[1"+makeid(33)+"] " + makeid(64) + " => "+Math.random() * 0.007+" BTC";
         document.getElementById("miner").scrollTo(0, document.getElementById("miner").scrollHeight);
         if(isStart){
             setTimeout(function(){
